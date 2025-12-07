@@ -1,2 +1,2 @@
-# portfolio-python.py
-Junção de vários exercícios explorando bibliotecas, funções e afins em python feitos durante a aula.
+# portfolio-SQL.py
+Junção de vários exercícios explorando bibliotecas, funções e afins em python e com linguagem SQL feitos durante a aula.
